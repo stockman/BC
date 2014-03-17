@@ -1,0 +1,8 @@
+filename = "drom-2014-03-17T22-43-00"
+description = "drom  - RT this is a vanilla install with only the modules enabled, no content or content types."
+datestamp = "1395096181"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-2.x"
+sites[0][version] = "7.26"
+sites[0][name] = "drom"
+sites[0][url] = "http://drom.localhost:8082/"
